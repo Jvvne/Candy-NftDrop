@@ -1,0 +1,28 @@
+{
+    "name": "Pudgy Penguin #5678",
+    "symbol": "smb",
+    "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Trick Or Treating"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Pillow"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Navy Blue"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
