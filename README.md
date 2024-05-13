@@ -1,5 +1,5 @@
 # Candy-NftDrop
-Creating An Nft drop using Solana Playground.
+Creating An Nft drop using Solana Candy Machine Playground.
 
 <img width="1708" alt="Screenshot 2024-05-13 at 12 55 34 PM" src="https://github.com/Jvvne/Candy-NftDrop/assets/148028363/ee6f6dae-cb85-4e76-af0c-fc8032db027e">
 
